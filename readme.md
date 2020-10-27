@@ -3,6 +3,7 @@ simple dropwizard application with OCI structured and normal logging
 
 ### build
 mvn clean install
+
 mvn package
 
 ### run
