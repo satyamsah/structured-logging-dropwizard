@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc27f675-6609-4ccd-a2ab-e2fe18662227" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/introduction-config.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/codefountain/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/codefountain/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/codefountain/configuration/DefaultConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/codefountain/configuration/DefaultConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/codefountain/resource/DefaultResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/codefountain/resource/DefaultResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/introduction-config.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/introduction-config.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/StructuredLogging-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/StructuredLogging-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/introduction-config.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/introduction-config.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/DefaultHealthCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/DefaultHealthCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/configuration/DefaultConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/configuration/DefaultConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/model/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/resource/DefaultResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/resource/DefaultResource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency-reduced-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-StructuredLogging-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-StructuredLogging-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603758299941</updated>
-      <workItem from="1603758304361" duration="5714000" />
+      <workItem from="1603758304361" duration="6020000" />
     </task>
     <servers />
   </component>
