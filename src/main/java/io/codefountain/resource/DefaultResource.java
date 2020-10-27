@@ -3,7 +3,6 @@ package io.codefountain.resource;
 import com.codahale.metrics.annotation.Timed;
 import io.codefountain.App;
 import io.codefountain.model.Person;
-import lombok.extern.log4j.Log4j;
 import org.apache.log4j.Logger;
 import org.apache.log4j.MDC;
 

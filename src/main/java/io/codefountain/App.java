@@ -1,6 +1,5 @@
 package io.codefountain;
 
-import com.oracle.oci.log.OciMDC;
 import io.codefountain.configuration.DefaultConfiguration;
 import io.codefountain.resource.DefaultResource;
 import io.dropwizard.Application;
