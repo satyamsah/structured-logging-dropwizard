@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc27f675-6609-4ccd-a2ab-e2fe18662227" name="Default Changelist" comment="" />
+    <list default="true" id="cc27f675-6609-4ccd-a2ab-e2fe18662227" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/introduction-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/codefountain/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/codefountain/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/codefountain/configuration/DefaultConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/codefountain/configuration/DefaultConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/codefountain/resource/DefaultResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/codefountain/resource/DefaultResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/introduction-config.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/introduction-config.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/StructuredLogging-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/StructuredLogging-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/introduction-config.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/introduction-config.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/DefaultHealthCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/DefaultHealthCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/configuration/DefaultConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/configuration/DefaultConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/codefountain/resource/DefaultResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/codefountain/resource/DefaultResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-StructuredLogging-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-StructuredLogging-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +37,14 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1jRE2qWgvznAgVAJDOeWmEvpOZx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -29,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -57,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603758299941</updated>
-      <workItem from="1603758304361" duration="982000" />
+      <workItem from="1603758304361" duration="5714000" />
     </task>
     <servers />
   </component>
@@ -81,5 +108,9 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603758470011" />
+    <state x="1992" y="265" width="816" height="550" key="find.popup" timestamp="1603761460532">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1992" y="265" width="816" height="550" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1603761460532" />
   </component>
 </project>

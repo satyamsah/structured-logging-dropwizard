@@ -39,11 +39,52 @@
           </filters>
         </configuration>
       </plugin>
+      <plugin>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>3.0.0</version>
+        <executions>
+          <execution>
+            <id>copy-config-resources</id>
+            <phase>process-resources</phase>
+            <goals>
+              <goal>copy-resources</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>${project.build.directory}/config</outputDirectory>
+              <resources>
+                <resource>
+                  <directory>config</directory>
+                  <includes>
+                    <include>*.conf</include>
+                  </includes>
+                </resource>
+              </resources>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>8</source>
+          <target>8</target>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
+  <dependencies>
+    <dependency>
+      <groupId>com.oracle.pic.commons</groupId>
+      <artifactId>dropwizard-service-bom</artifactId>
+      <version>0.1.50</version>
+      <type>pom</type>
+      <scope>import</scope>
+    </dependency>
+  </dependencies>
   <properties>
     <dropwizard.version>2.0.0</dropwizard.version>
-    <jdk.version>1.7</jdk.version>
+    <jdk.version>1.8</jdk.version>
+    <dropwizard-bom-version>0.1.50</dropwizard-bom-version>
     <jar.main.class>io.codefountain.App</jar.main.class>
     <log4j.version>1.2.17</log4j.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
