@@ -1,12 +1,13 @@
-##
+## intro
 simple dropwizard application with OCI structured and normal logging
-### build
 
+### build
 mvn clean install
 mvn package
 
-###run
+### run
 java -jar target/original-StructuredLogging-1.0-SNAPSHOT.jar  server src/main/resources/introduction-config.yaml 
 
+### test
 
-#local
+http://localhost:8080/hello 
