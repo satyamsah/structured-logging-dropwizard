@@ -1,0 +1,5 @@
+io/codefountain/configuration/DefaultConfiguration.class
+io/codefountain/App.class
+io/codefountain/DefaultHealthCheck.class
+io/codefountain/resource/DefaultResource.class
+io/codefountain/model/Person.class
